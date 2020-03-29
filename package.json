@@ -1,0 +1,10 @@
+{
+  "name": "recipeAppServerlessInfra",
+  "version": "1.0.0",
+  "dependencies": {
+    "lambda-uuid": "^1.0.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.648.0"
+  }
+}
