@@ -5,6 +5,6 @@
     "lambda-uuid": "^1.0.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.648.0"
+    "aws-sdk": "^2.814.0"
   }
 }
